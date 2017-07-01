@@ -12,6 +12,8 @@ Emoji glyphs from this SVG font are converted to separate SVG paths in `/svg`.
 
 A mapping of emoji filenames to categories based on data from the [emoji-data](https://github.com/iamcal/emoji-data) project is available in `/json`.
 
+These files can be downloaded from the [releases page](https://github.com/rohanchandra/noto-emoji-regular-to-svg/releases).
+
 ## Build
 
 To recreate the SVG font and glyph paths, the following dependencies are required:
