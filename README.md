@@ -19,7 +19,7 @@ To recreate the SVG font and glyph paths, the following dependencies are require
 * [svg-caster](https://github.com/icons8/svg-caster)
 * [Python 3.6.x](https://www.python.org/)
 
-Run the `build.sh` script to convert the `ttf` to `svg`:
+Run the `build.sh` script to convert the `ttf` to `svg` and generate the category mapping `json` file:
 
 ```
 $ git clone git@github.com:RohanChandra/noto-emoji-regular-to-svg.git
