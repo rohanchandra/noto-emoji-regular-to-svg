@@ -1,5 +1,7 @@
 # Noto Emoji Regular to SVG
 
+![SVG preview](https://user-images.githubusercontent.com/816965/27758160-8a788232-5e51-11e7-9d6e-ca8995e11587.png)
+
 A small set of scripts to convert the black-and-white [Noto Emoji](https://www.google.com/get/noto/#emoji-zsye) (`NotoEmoji-Regular.ttf`) file into SVG.
 
 Note: Noto Emoji Color SVG can be found in the [noto-emoji](https://github.com/googlei18n/noto-emoji/tree/master/svg) repo.
