@@ -1,0 +1,6 @@
+#!/usr/local/bin/fontforge
+#
+# Convert TTF font to SVG font
+
+Open($1)
+Generate($1:r + '.svg')
