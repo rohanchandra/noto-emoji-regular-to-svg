@@ -31,4 +31,4 @@ $ sh ./build.sh
 
 The Noto Emoji font is licensed under the SIL Open Font License, version 1.1. The Noto Emoji font is the [work of Google Inc](https://github.com/googlei18n/noto-emoji/blob/master/AUTHORS).
 
-Code is licensed under Apache license, version 2.0 and modified code under the Apache license, version 2.0 is used.
+Code is licensed under Apache license, version 2.0 and modified code under the Apache license is used. Emoji categorization is performed based on data available under the MIT license.
