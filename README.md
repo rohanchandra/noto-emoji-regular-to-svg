@@ -10,6 +10,8 @@ Note: Noto Emoji Color SVG can be found in the [noto-emoji](https://github.com/g
 
 Emoji glyphs from this SVG font are converted to separate SVG paths in `/svg`.
 
+A mapping of emoji filenames to categories based on data from the [emoji-data](https://github.com/iamcal/emoji-data) project is available in `/json`.
+
 ## Build
 
 To recreate the SVG font and glyph paths, the following dependencies are required:
