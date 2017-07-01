@@ -8,7 +8,7 @@ rm svg/*.svg
 fontforge -script ./src/ttf_to_svg_font.pe ./font/NotoEmoji-Regular.ttf
 
 # Convert SVG font to SVG files
-svg-caster --svg-font ./font/NotoEmoji-Regular.svg --out-svg ./svg
+svg-caster --svg-font ./font/NotoEmoji-Regular.svg --out-svg ./svg --svgo
 
 # Rename emoji
 python3 ./src/rename_svg_emoji.py
