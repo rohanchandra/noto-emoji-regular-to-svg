@@ -56,4 +56,4 @@ for file_name in emoji_filenames:
 
 # Export categorized emoji to JSON
 with open(OUTPUT_PATH, 'w') as output_json:
-    json.dump(categorized_emoji, output_json, ensure_ascii = False)
+    json.dump(categorized_emoji, output_json, ensure_ascii=False)

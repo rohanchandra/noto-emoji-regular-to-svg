@@ -29,7 +29,7 @@ for glyph_element in glyph_elements:
 
 # Rename output files
 root_dir = Path(__file__).parents[1]
-svg_path = root_dir.joinpath('svg') # ../svg
+svg_path = root_dir.joinpath('svg')  # ../svg
 
 for f in svg_path.iterdir():
     file_name = f.stem
